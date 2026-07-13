@@ -17,7 +17,7 @@ dependencies = [
     # HTTP client for calling model, pipeline, and agent workloads
     "httpx>=0.28.1",
     # WebSocket client for OpenClaw Gateway JSON-RPC
-    "websockets>=16",
+    "websockets>=16.1",
 ]
 
 [tool.uv]
