@@ -11,7 +11,7 @@ dependencies = [
     # Qdrant vector store (RAG/search workloads)
     "qdrant-client[fastembed]>=1.18.0",
     # Prometheus metrics server
-    "prometheus-client>=0.25.0",
+    "prometheus-client>=0.26.0",
     # MLflow — inference metrics tracking
     "mlflow>=3.14.0",
     # HTTP client for calling model, pipeline, and agent workloads
